@@ -6,7 +6,7 @@ import utilities.CommonTestCase;
 /**
  * Created by kchennimalai on 30/11/2017.
  */
-public class testRL extends CommonTestCase{
+public class testHomePage extends CommonTestCase{
 
     @Test
     public void getRLLink() {
